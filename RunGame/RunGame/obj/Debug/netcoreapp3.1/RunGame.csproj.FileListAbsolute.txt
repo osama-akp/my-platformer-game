@@ -1,0 +1,17 @@
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.exe
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.deps.json
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.runtimeconfig.json
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.runtimeconfig.dev.json
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.dll
+F:\RunGame\RunGame\RunGame\bin\Debug\netcoreapp3.1\RunGame.pdb
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.csproj.AssemblyReference.cache
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.Form1.resources
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.Properties.Resources.resources
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.csproj.GenerateResource.cache
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.AssemblyInfoInputs.cache
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.AssemblyInfo.cs
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.csproj.CoreCompileInputs.cache
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.dll
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.pdb
+F:\RunGame\RunGame\RunGame\obj\Debug\netcoreapp3.1\RunGame.genruntimeconfig.cache

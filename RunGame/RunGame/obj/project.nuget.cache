@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NrnYOgFG7lPgwOsPZT5bkvCM9tRTiEavcNc8UsXlhMJPaLt20IyABFl7KqW/qW3I8P+0VI3kAHSqIi3miBrWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdelrahman mostafa\\Desktop\\RunGame\\RunGame\\RunGame\\RunGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdelrahman mostafa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Abdelrahman mostafa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Abdelrahman mostafa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Abdelrahman mostafa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
