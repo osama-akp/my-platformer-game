@@ -1,3 +1,6 @@
+#my partner
+Махмуд яссер массуд мохамед
+
 # my-platformer-game 
 ##the description
 This game was designed using the visual studio and C# programming language.
